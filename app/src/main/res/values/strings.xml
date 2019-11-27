@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Notas</string>
+    <string name="title_activity_principal">PrincipalActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_notifications2">notas</string>
+    <string name="dialog_fire_missiles">Crear nueva nota</string>
+    <string name="fire">Guardar!</string>
+    <string name="cancel">Cancelar</string>
+    <string name="nueva_nota">Nueva Nota</string>
+</resources>
